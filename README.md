@@ -13,7 +13,7 @@ Play a game of tic-tac-toe!
 For more information please contact me: <b>dylanmpgh@gmail.com</b>
 
 <h2>Roadmap</h2>
-In the future I hope to add on to this project to showcase my progress as I work towards becoming a better web developer.
+In the future I hope to add on to this project to showcase my progress as I work towards becoming a better web developer. I plan to go into the styles.css folder and update the css code. I plan to change the colors to a more personally favored look.
 
 <h2>License Info</h2>
 MIT License
